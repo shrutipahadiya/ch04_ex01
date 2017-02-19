@@ -60,8 +60,9 @@ $statement->closeCursor();
  <label>Name:</label>
  <input type="text" name="name"><br>
  <label>&nbsp;</label>
- <label>&nbsp;</label>
- <input type="submit" value="Add">
+  <label>&nbsp;</label>
+
+  <input type="submit" value="Add">
  </form>
 <!--Ends Here-->
 
